@@ -1,0 +1,37 @@
+/*.loginPanelBottomDisplaySectionStyle{
+	background-color: transparent;
+	width: 948px;
+}
+.loginPanelBottomSectionDetailsrow{
+	background-color: #000;
+    opacity: 0.7;
+    padding-right: 3px;
+    margin-right: 3px;
+    padding-left: 8px;
+    padding-top: 2px;
+    padding-bottom: 1.6px;
+    width: 222px;
+}*/
+
+/*.login-body-style{
+	background: none;
+}
+body{
+	background: #F5F5F5 url(../images/backgrounds/loginbg1_1024.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}*/
+
+body {
+    background: #F5F5F5 url(../images/backgrounds/MaterialBackground_login.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.width100percent_main_loginbg {
+    height: 380px;
+}
